@@ -22,6 +22,8 @@ SX No Homepage Pagination removes properly any homepage pagination (whatever plu
 
 This plugin works on any default homepage, not on a blog page.
 
+If you want to contribute, check this link : http://wordpress.org/plugins/sx-no-homepage-pagination/
+
 == Installation ==
 
 No configuration is necessary. Upload, activate and done.
