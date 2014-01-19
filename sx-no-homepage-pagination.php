@@ -31,6 +31,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 /**
+  Security
+*/
+if ( ! defined( 'ABSPATH' ) ) exit;
+
+
+/**
   Don't paginate homepage
   * © Daniel Roch
   */

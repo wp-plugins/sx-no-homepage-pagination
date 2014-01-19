@@ -3,7 +3,7 @@
 Plugin Name:  SX No Homepage Pagination
 Version:      1.0
 Plugin URI:   http://www.seomix.fr
-Description:  Simply remove homepage pagination. The plugin removes properly any homepage pagination (whatever plugin or function you are using). This plugin works on default homepage, not on a blog page.
+Description:  SX No Homepage Pagination simply removes homepage pagination. The plugin removes properly any homepage pagination (whatever plugin or function you are using). This plugin works on default homepage, not on a blog page.
 Usage: No configuration necessary. Upload, activate and done.
 Availables languages : en_EN
 Tags: homepage, pagination
@@ -18,7 +18,7 @@ The plugin removes properly any homepage pagination (whatever plugin or function
 
 == Description ==
 
-SX No Homepage Pagination removes properly any homepage pagination (whatever plugin or function you are using) and redirect useless paginated content.
+SX No Homepage Pagination removes properly any homepage pagination (whatever plugin or function you are using) and redirects useless paginated content.
 
 This plugin works on any default homepage, not on a blog page.
 
