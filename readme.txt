@@ -9,6 +9,7 @@ Availables languages : en_EN
 Tags: homepage, pagination
 Author: Confridin
 Author URI: http://www.seomix.fr
+Contributors: Confridin
 Requires at least: 3.3
 Tested up to: 3.8
 Stable tag: trunk
