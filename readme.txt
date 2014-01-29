@@ -21,7 +21,7 @@ The plugin removes properly any homepage pagination (whatever plugin or function
 
 SX No Homepage Pagination removes properly any homepage pagination (whatever plugin or function you are using) and redirects useless paginated content.
 
-This plugin works on any default homepage, not on a blog page.
+This plugin works on any default homepage. It doesn't work not on a static blog page (when you define a static homepage and another page to display posts).
 
 If you want to contribute, check this link : https://bitbucket.org/rochdaniel/sx-no-homepage-pagination
 
