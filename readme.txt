@@ -23,7 +23,7 @@ SX No Homepage Pagination removes properly any homepage pagination (whatever plu
 
 This plugin works on any default homepage. It doesn't work not on a static blog page (when you define a static homepage and another page to display posts).
 
-If you want to contribute, check this link : https://bitbucket.org/rochdaniel/sx-no-homepage-pagination
+If you want to contribute, check this link : https://bitbucket.org/rochdaniel/sx-no-homepage-pagination, or contact me on http://www.seomix.fr
 
 == Installation ==
 
