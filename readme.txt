@@ -33,7 +33,7 @@ No configuration is necessary. Upload, activate and done.
 
 **2014/01/18**
 
-= 1.2.1 =
+= 1.1.1 =
 * Found a better way to add compatibility check https://github.com/BoiteAWeb/ActivationTester
 
 = 1.1 =
