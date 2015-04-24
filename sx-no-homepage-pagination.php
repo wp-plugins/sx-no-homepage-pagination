@@ -9,7 +9,7 @@ Tags: homepage, pagination, page, paged, frontpage, home page, front page
 Author: Daniel Roch
 Author URI: http://www.seomix.fr
 Requires at least: 3.3
-Tested up to: 3.8
+Tested up to: 4.2
 License: GPL v3
 
 SX No Homepage Pagination - SeoMix
